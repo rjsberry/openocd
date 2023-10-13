@@ -1,0 +1,9 @@
+[submodule "hidapi"]
+	path = hidapi
+	url = https://github.com/libusb/hidapi
+[submodule "libusb"]
+	path = libusb
+	url = https://github.com/libusb/libusb
+[submodule "openocd"]
+	path = openocd
+	url = https://github.com/openocd-org/openocd
